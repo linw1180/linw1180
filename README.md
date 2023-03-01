@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello everyone, i am linw1180, have a good day !
+Hello everyone, i am linw1180, have a good day!
 
 <!--
 **linw1180/linw1180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
